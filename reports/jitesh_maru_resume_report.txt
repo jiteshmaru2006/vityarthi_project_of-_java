@@ -1,0 +1,16 @@
+AI BASED RESUME SCREENING REPORT
+
+Candidate: Jitesh Maru
+Target role: Java Developer
+Overall score: 81.3%
+Category: STRONG MATCH
+Required skill coverage: 100.0%
+Preferred skill coverage: 50.0%
+Text similarity: 58.5%
+Matched skills: collections, exception handling, git, java, maven, oop, rest api, sql
+Missing required skills: None
+
+Recommendations:
+- Quantify achievements and prepare examples for technical interviews.
+
+Educational self-assessment only; not an automated hiring decision.
