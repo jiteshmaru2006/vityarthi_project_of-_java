@@ -1,0 +1,24 @@
+============================================================
+ AI-BASED RESUME SCREENING AND SKILL GAP ANALYZER
+============================================================
+Candidate name: Available roles:
+  1. Java Developer
+  2. Data Analyst
+  3. Machine Learning Intern
+Choose role (1-3): Resume file [samples/jitesh_resume.txt]: 
+---------------------- ANALYSIS RESULT ----------------------
+Target role              : Java Developer
+Overall match score      : 81.3%
+Match category           : STRONG MATCH
+Required skill coverage  : 100.0%
+Preferred skill coverage : 50.0%
+Text similarity          : 58.5%
+Matched skills           : collections, exception handling, git, java, maven, oop, rest api, sql
+Missing required skills  : None
+Recommendations:
+  - Quantify achievements and prepare examples for technical interviews.
+Report saved             : reports/jitesh_maru_resume_report.txt
+History updated          : data/screening_history.csv
+-------------------------------------------------------------
+Educational self-assessment only - not a hiring decision.
+Program completed successfully.
