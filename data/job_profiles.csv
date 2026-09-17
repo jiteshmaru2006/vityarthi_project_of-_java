@@ -1,0 +1,4 @@
+role,required_skills,preferred_skills,keywords
+Java Developer,"java;oop;collections;exception handling;sql;git","spring boot;maven;junit;rest api","backend development object oriented programming database debugging clean code"
+Data Analyst,"python;sql;excel;statistics;data visualization","power bi;tableau;pandas;machine learning","data cleaning dashboard business insights exploratory analysis reporting"
+Machine Learning Intern,"python;statistics;machine learning;data preprocessing;git","scikit learn;pandas;deep learning;sql","model training feature engineering evaluation cross validation experimentation"
