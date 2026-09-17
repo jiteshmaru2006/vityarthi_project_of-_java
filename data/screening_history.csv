@@ -1,0 +1,2 @@
+timestamp,candidate,role,score,category,required_coverage,preferred_coverage,cosine_similarity
+2026-09-17T18:26:51.441267580Z,Jitesh Maru,Java Developer,81.3,STRONG MATCH,100.0,50.0,58.5
