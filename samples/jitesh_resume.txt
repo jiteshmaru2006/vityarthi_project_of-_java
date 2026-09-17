@@ -1,0 +1,5 @@
+Jitesh Maru
+Computer Science student interested in backend development.
+Skills: Java, object oriented programming, collections, exception handling, SQL, Git and Maven.
+Projects: Built a Java expense tracker with file handling and a REST API prototype.
+Experience: Practised debugging, database queries and clean code through academic projects.
